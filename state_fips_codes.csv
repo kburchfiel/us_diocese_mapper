@@ -1,0 +1,57 @@
+,State_Name,State_Code,FIPS
+0,Alabama,AL,1
+1,Alaska,AK,2
+2,Arizona,AZ,4
+3,Arkansas,AR,5
+4,California,CA,6
+5,Colorado,CO,8
+6,Connecticut,CT,9
+7,Delaware,DE,10
+8,Florida,FL,12
+9,Georgia,GA,13
+10,Hawaii,HI,15
+11,Idaho,ID,16
+12,Illinois,IL,17
+13,Indiana,IN,18
+14,Iowa,IA,19
+15,Kansas,KS,20
+16,Kentucky,KY,21
+17,Louisiana,LA,22
+18,Maine,ME,23
+19,Maryland,MD,24
+20,Massachusetts,MA,25
+21,Michigan,MI,26
+22,Minnesota,MN,27
+23,Mississippi,MS,28
+24,Missouri,MO,29
+25,Montana,MT,30
+26,Nebraska,NE,31
+27,Nevada,NV,32
+28,New Hampshire,NH,33
+29,New Jersey,NJ,34
+30,New Mexico,NM,35
+31,New York,NY,36
+32,North Carolina,NC,37
+33,North Dakota,ND,38
+34,Ohio,OH,39
+35,Oklahoma,OK,40
+36,Oregon,OR,41
+37,Pennsylvania,PA,42
+38,Rhode Island,RI,44
+39,South Carolina,SC,45
+40,South Dakota,SD,46
+41,Tennessee,TN,47
+42,Texas,TX,48
+43,Utah,UT,49
+44,Vermont,VT,50
+45,Virginia,VA,51
+46,Washington,WA,53
+47,West Virginia,WV,54
+48,Wisconsin,WI,55
+49,Wyoming,WY,56
+50,American Samoa,AS,60
+51,Guam,GU,66
+52,Northern Mariana Islands,MP,69
+53,Puerto Rico,PR,72
+54,Virgin Islands,VI,78
+55,District of Columbia,DC,11
