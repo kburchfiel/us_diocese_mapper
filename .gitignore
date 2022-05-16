@@ -6,3 +6,6 @@ county_shapes_test.geojson
 Test.csv
 copy_paste_space.py
 geckodriver.log
+.~lock.diocese_province_list.csv#
+diocese_list_for_name_checking_modified.csv
+diocese_list_for_name_checking.csv

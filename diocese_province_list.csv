@@ -15,7 +15,7 @@ Boston,Boston
 Burlington,Boston
 Fall River,Boston
 Manchester,Boston
-Portland,Boston
+Portland in Maine,Boston
 Springfield in Massachusetts,Boston
 Worcester,Boston
 Chicago,Chicago
@@ -67,7 +67,7 @@ Salina,Kansas City in Kansas
 Wichita,Kansas City in Kansas
 Los Angeles,Los Angeles
 Fresno,Los Angeles
-Monterey in California,Los Angeles
+Monterey,Los Angeles
 Orange,Los Angeles
 San Bernardino,Los Angeles
 San Diego,Los Angeles
@@ -83,7 +83,7 @@ Orlando,Miami
 Palm Beach,Miami
 Pensacola-Tallahassee,Miami
 St. Augustine,Miami
-Saint Petersburg,Miami
+St. Petersburg,Miami
 Venice,Miami
 Milwaukee,Milwaukee
 Green Bay,Milwaukee
@@ -95,7 +95,7 @@ Biloxi,Mobile
 Birmingham,Mobile
 Jackson,Mobile
 New Orleans,New Orleans
-Alexandria in Louisiana,New Orleans
+Alexandria,New Orleans
 Baton Rouge,New Orleans
 Houma-Thibodaux,New Orleans
 Lafayette in Louisiana,New Orleans
@@ -137,16 +137,16 @@ St. Louis,St. Louis
 Jefferson City,St. Louis
 Kansas City-St. Joseph,St. Louis
 Springfield-Cape Girardeau,St. Louis
-Saint Paul and Minneapolis,Saint Paul and Minneapolis
-Bismark,Saint Paul and Minneapolis
-Crookston,Saint Paul and Minneapolis
-Duluth,Saint Paul and Minneapolis
-Fargo,Saint Paul and Minneapolis
-New Ulm,Saint Paul and Minneapolis
-Rapid City,Saint Paul and Minneapolis
-Saint Cloud,Saint Paul and Minneapolis
-Sioux Falls,Saint Paul and Minneapolis
-Winona-Rochester,Saint Paul and Minneapolis
+St. Paul and Minneapolis,St. Paul and Minneapolis
+Bismark,St. Paul and Minneapolis
+Crookston,St. Paul and Minneapolis
+Duluth,St. Paul and Minneapolis
+Fargo,St. Paul and Minneapolis
+New Ulm,St. Paul and Minneapolis
+Rapid City,St. Paul and Minneapolis
+St. Cloud,St. Paul and Minneapolis
+Sioux Falls,St. Paul and Minneapolis
+Winona-Rochester,St. Paul and Minneapolis
 San Antonio,San Antonio
 Amarillo,San Antonio
 Dallas,San Antonio
@@ -162,8 +162,8 @@ Oakland,San Francisco
 Reno,San Francisco
 Sacramento,San Francisco
 Salt Lake City,San Francisco
-San Jose in California,San Francisco
-Santa Rosa in California,San Francisco
+San Jose,San Francisco
+Santa Rosa,San Francisco
 Stockton,San Francisco
 Santa Fe,Santa Fe
 Gallup,Santa Fe
@@ -174,4 +174,4 @@ Seattle,Seattle
 Spokane,Seattle
 Yakima,Seattle
 Washington,Washington
-Saint Thomas,Washington
+St. Thomas,Washington
