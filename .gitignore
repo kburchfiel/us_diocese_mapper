@@ -9,3 +9,4 @@ geckodriver.log
 .~lock.diocese_province_list.csv#
 diocese_list_for_name_checking_modified.csv
 diocese_list_for_name_checking.csv
+original_county_outlines.geojson
