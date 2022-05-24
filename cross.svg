@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="cross.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4930696"
+     inkscape:cx="28.464849"
+     inkscape:cy="128.92902"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.177296;stroke-opacity:0;stop-color:#000000;fill-opacity:1"
+       id="rect874"
+       width="5.1143713"
+       height="31.572704"
+       x="0.088647738"
+       y="0.088647738"
+       inkscape:export-filename="C:\Users\kburc\D1V1\Documents\!Dell64docs\Programming\py\kjb3_programs\us_diocese_mapper\cross.png"
+       inkscape:export-xdpi="95.900002"
+       inkscape:export-ydpi="95.900002" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.405872;stroke-opacity:0;stop-color:#000000"
+       id="rect978"
+       width="20.760796"
+       height="4.8857942"
+       x="-7.7345638"
+       y="6.8175192"
+       inkscape:export-filename="C:\Users\kburc\D1V1\Documents\!Dell64docs\Programming\py\kjb3_programs\us_diocese_mapper\cross.png"
+       inkscape:export-xdpi="95.900002"
+       inkscape:export-ydpi="95.900002" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.492247;stroke-opacity:0;stop-color:#000000"
+       id="path1358"
+       cx="2.6458335"
+       cy="37.041668"
+       r="15.628877" />
+  </g>
+</svg>
