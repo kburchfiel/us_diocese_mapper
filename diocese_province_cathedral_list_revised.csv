@@ -6,8 +6,8 @@ Charleston,Atlanta,"[""Cathedral of Saint John the Baptist""]","[[32.77656, -79.
 Charlotte,Atlanta,"[""Cathedral of Saint Patrick""]","[[35.20529, -80.84475]]",
 Raleigh,Atlanta,"[""Holy Name of Jesus Cathedral""]","[[35.7775, -78.66998]]",
 Savannah,Atlanta,"[""Cathedral Basilica of Saint John the Baptist""]","[[32.07334, -81.09098]]",
-Baltimore,Baltimore,"[""Cathedral of Mary Our Queen"", ""Basilica of the National Shrine of the Assumption of the Blessed Virgin Mary""]","[[39.35878, -76.62601], [39.29446, -76.61624]]",
 Arlington,Baltimore,"[""Cathedral of Saint Thomas More""]","[[38.87053, -77.10344]]",
+Baltimore,Baltimore,"[""Cathedral of Mary Our Queen"", ""Basilica of the National Shrine of the Assumption of the Blessed Virgin Mary""]","[[39.35878, -76.62601], [39.29446, -76.61624]]",
 Richmond,Baltimore,"[""Cathedral of the Sacred Heart""]","[[37.54751, -77.45236]]",
 Wheeling-Charleston,Baltimore,"[""Cathedral of Saint Joseph (Wheeling)"", ""Basilica of the Co-Cathedral of the Sacred Heart (Charleston)""]","[[40.06649, -80.71958], [38.34731, -81.63293]]",
 Wilmington,Baltimore,"[""Cathedral of Saint Peter""]","[[39.74281, -75.55326]]",
@@ -18,8 +18,8 @@ Manchester,Boston,"[""Cathedral of Saint Joseph""]","[[42.99339, -71.45883]]",
 Portland in Maine,Boston,"[""Cathedral of the Immaculate Conception""]","[[43.66161, -70.25433]]",
 Springfield in Massachusetts,Boston,"[""Saint Michael's Cathedral""]","[[42.10436, -72.58469]]",
 Worcester,Boston,"[""Cathedral of Saint Paul""]","[[42.26162, -71.80424]]",
-Chicago,Chicago,"[""Holy Name Cathedral""]","[[41.89595, -87.6276]]",
 Belleville,Chicago,"[""St. Peter's Cathedral""]","[[38.51027777777778, -89.98805555555556]]",Location is from Wikipedia
+Chicago,Chicago,"[""Holy Name Cathedral""]","[[41.89595, -87.6276]]",
 Joliet,Chicago,"[""Cathedral of St. Raymond Nonnatus""]","[[41.53529, -88.10056]]",
 Peoria,Chicago,"[""Cathedral of Saint Mary of the Immaculate Conception""]","[[40.69841, -89.58495]]",
 Rockford,Chicago,"[""Cathedral of Saint Peter""]","[[42.28495, -89.0829]]",
@@ -30,9 +30,9 @@ Columbus,Cincinnati,"[""Saint Joseph Cathedral""]","[[39.9634, -82.99473]]",
 Steubenville,Cincinnati,"[""Holy Name Cathedral""]","[[40.35536, -80.61935]]",
 Toledo,Cincinnati,"[""Our Lady, Queen of the Most Holy Rosary Cathedral""]","[[41.67257, -83.5561]]",
 Youngstown,Cincinnati,"[""St. Columba Cathedral""]","[[41.1035, -80.65062]]",
-Denver,Denver,"[""Cathedral Basilica of the Immaculate Conception""]","[[39.74044, -104.98199]]",
 Cheyenne,Denver,"[""St. Mary's Cathedral""]","[[41.13772, -104.8177]]",
 Colorado Springs,Denver,"[""Cathedral of Saint Mary""]","[[38.83631, -104.82666]]",
+Denver,Denver,"[""Cathedral Basilica of the Immaculate Conception""]","[[39.74044, -104.98199]]",
 Pueblo,Denver,"[""Cathedral of the Sacred Heart""]","[[38.27689, -104.61209]]",
 Detroit,Detroit,"[""Cathedral of the Most Blessed Sacrament""]","[[42.38862, -83.08484]]",
 Gaylord,Detroit,"[""St. Mary, Our Lady of Mount Carmel Cathedral""]","[[45.03352, -84.68298]]",
@@ -41,40 +41,43 @@ Kalamazoo,Detroit,"[""Cathedral of Saint Augustine""]","[[42.29213, -85.59143]]"
 Lansing,Detroit,"[""Saint Mary Cathedral""]","[[42.73563, -84.55602]]",
 Marquette,Detroit,"[""Saint Peter Cathedral""]","[[46.54106, -87.39875]]",
 Saginaw,Detroit,"[""Cathedral of Mary of the Assumption""]","[[43.42589, -83.93661]]",
-Dubuque,Dubuque,"[""Saint Raphael's Cathedral""]","[[42.49505, -90.6673]]",
 Davenport,Dubuque,"[""Sacred Heart Cathedral""]","[[41.53034, -90.56913]]",
 Des Moines,Dubuque,"[""Saint Ambrose Cathedral""]","[[41.58878, -93.62586]]",
+Dubuque,Dubuque,"[""Saint Raphael's Cathedral""]","[[42.49505, -90.6673]]",
 Sioux City,Dubuque,"[""Cathedral of the Epiphany""]","[[42.50094, -96.4069]]",
-Galveston-Houston,Galveston-Houston,"[""Saint Mary Cathedral Basilica (Galveston)"", ""Co-Cathedral of the Sacred Heart (Houston)""]","[[29.30417, -94.79039], [29.74988, -95.36869]]",
 Austin,Galveston-Houston,"[""Saint Mary Cathedral""]","[[30.27108, -97.74]]",
 Beaumont,Galveston-Houston,"[""Saint Anthony Cathedral Basilica""]","[[30.07777777777778, -94.10083333333333]]",Location is from Wikipedia
 Brownsville,Galveston-Houston,"[""Immaculate Conception Cathedral""]","[[25.90245, -97.49594]]",
 Corpus Christi,Galveston-Houston,"[""Corpus Christi Cathedral""]","[[27.79448, -97.39685]]",
+Galveston-Houston,Galveston-Houston,"[""Saint Mary Cathedral Basilica (Galveston)"", ""Co-Cathedral of the Sacred Heart (Houston)""]","[[29.30417, -94.79039], [29.74988, -95.36869]]",
 Tyler,Galveston-Houston,"[""Cathedral of the Immaculate Conception""]","[[32.3463, -95.30116]]",
 Victoria in Texas,Galveston-Houston,"[""Our Lady of Victory Cathedral""]","[[28.8243, -96.9919]]",Obtained via GeoHack
-Hartford,Hartford,"[""Cathedral of Saint Joseph""]","[[41.76853, -72.69218]]",
 Bridgeport,Hartford,"[""Saint Augustine Cathedral""]","[[41.16427, -73.19456]]",
+Hartford,Hartford,"[""Cathedral of Saint Joseph""]","[[41.76853, -72.69218]]",
 Norwich,Hartford,"[""Cathedral of Saint Patrick""]","[[41.53125, -72.0772]]",
 Providence,Hartford,"[""Cathedral of Saints Peter and Paul""]","[[41.81925, -71.41651]]",
-Indianapolis,Indianapolis,"[""Saints Peter and Paul Cathedral""]","[[39.78536, -86.15686]]",
 Evansville,Indianapolis,"[""Cathedral of Saint Benedict""]","[[37.97033, -87.54071]]",
 Fort Wayne-South Bend,Indianapolis,"[""Cathedral of the Immaculate Conception (Fort Wayne)"", ""St. Matthew Cathedral (South Bend)""]","[[41.07574, -85.13786], [41.65661, -86.23547]]",
 Gary,Indianapolis,"[""Cathedral of the Holy Angels""]","[[41.59884, -87.34889]]",
+Indianapolis,Indianapolis,"[""Saints Peter and Paul Cathedral""]","[[39.78536, -86.15686]]",
 Lafayette in Indiana,Indianapolis,"[""Cathedral of Saint Mary of the Immaculate Conception""]","[[40.41769, -86.88394]]",
-Kansas City in Kansas,Kansas City in Kansas,"[""Cathedral of Saint Peter""]","[[39.11018, -94.64517]]",
 Dodge City,Kansas City in Kansas,"[""Cathedral of Our Lady of Guadalupe""]","[[37.79361111111111, -100.03472222222223]]",Location comes from Wikipedia
+Kansas City in Kansas,Kansas City in Kansas,"[""Cathedral of Saint Peter""]","[[39.11018, -94.64517]]",
 Salina,Kansas City in Kansas,"[""Sacred Heart Cathedral""]","[[38.84121, -97.61193]]",
 Wichita,Kansas City in Kansas,"[""Cathedral of the Immaculate Conception""]","[[37.69302, -97.33528]]",Listed as 'Saint Mary's Cathedral' on OpenStreetMaps
-Los Angeles,Los Angeles,"[""Cathedral of Our Lady of the Angels""]","[[34.05806, -118.24554]]",
+Las Vegas,Las Vegas,"[""Guardian Angel Cathedral""]","[[36.130556, -115.163611]]",Obtained via GeoHack
+Reno,Las Vegas,"[""Saint Thomas Aquinas Cathedral""]","[[39.5258, -119.8174]]",Obtained via GeoHack
+Salt Lake City,Las Vegas,"[""Cathedral of the Madeleine""]","[[40.769722, -111.881667]]",Obtained via GeoHack
 Fresno,Los Angeles,"[""Saint John the Baptist Cathedral""]","[[36.74072, -119.78256]]",
+Los Angeles,Los Angeles,"[""Cathedral of Our Lady of the Angels""]","[[34.05806, -118.24554]]",
 Monterey,Los Angeles,"[""Cathedral of San Carlos Borromeo""]","[[36.59553, -121.89046]]",
 Orange,Los Angeles,"[""Christ Cathedral""]","[[33.78739, -117.89891]]",
 San Bernardino,Los Angeles,"[""Our Lady of the Rosary Cathedral""]","[[34.13899, -117.28921]]",
 San Diego,Los Angeles,"[""Saint Joseph Cathedral""]","[[32.72118, -117.16155]]",
-Louisville,Louisville,"[""Cathedral of the Assumption""]","[[38.25184, -85.75853]]",
 Covington,Louisville,"[""Cathedral Basilica of the Assumption""]","[[39.07821, -84.5083]]",
 Knoxville,Louisville,"[""Cathedral of the Most Sacred Heart of Jesus""]","[[35.92588, -84.00043]]",
 Lexington,Louisville,"[""Cathedral of Christ the King""]","[[38.02245, -84.48698]]",
+Louisville,Louisville,"[""Cathedral of the Assumption""]","[[38.25184, -85.75853]]",
 Memphis,Louisville,"[""Cathedral of the Immaculate Conception""]","[[35.12585, -90.00522]]",
 Nashville,Louisville,"[""Cathedral of the Incarnation""]","[[36.1508, -86.7996]]",Obtained via GeoHack
 Owensboro,Louisville,"[""Saint Stephen Cathedral""]","[[37.76967, -87.11585]]",
@@ -85,69 +88,54 @@ Pensacola-Tallahassee,Miami,"[""Cathedral of the Sacred Heart (Pensacola)"", ""C
 St. Augustine,Miami,"[""Cathedral Basilica of St. Augustine""]","[[29.89306, -81.31246]]",
 St. Petersburg,Miami,"[""Cathedral of Saint Jude the Apostle""]","[[27.7779, -82.7135]]",
 Venice,Miami,"[""Epiphany Cathedral""]","[[27.10124, -82.44878]]",
-Milwaukee,Milwaukee,"[""Cathedral of Saint John the Evangelist""]","[[43.04184, -87.90371]]",
 Green Bay,Milwaukee,"[""Cathedral of Saint Francis Xavier""]","[[44.5115, -88.01176]]",
 La Crosse,Milwaukee,"[""Cathedral of Saint Joseph the Workman""]","[[43.81101, -91.24865]]",
 Madison,Milwaukee,"[""Holy Redeemer Church"", ""Saint Patrick Church""]","[[43.07564, -89.3894], [43.07697, -89.37915]]","St. Raphael's Cathedral was burned down in an arson attack. Currently, Holy Redeemer and St. Patrick have assumed the role of a cathedral parish, but there are plans to build a new cathedral in the future. (See https://www.madisoncathedral.org/cathedralparish)"
+Milwaukee,Milwaukee,"[""Cathedral of Saint John the Evangelist""]","[[43.04184, -87.90371]]",
 Superior,Milwaukee,"[""Cathedral of Christ the King""]","[[46.72116, -92.09422]]",
-Mobile,Mobile,"[""Cathedral Basilica of the Immaculate Conception""]","[[30.69013, -88.04585]]",
 Biloxi,Mobile,"[""Cathedral of the Nativity of the Blessed Virgin Mary""]","[[30.39722, -88.8912]]",
 Birmingham,Mobile,"[""Cathedral of Saint Paul""]","[[33.51774, -86.80458]]",
 Jackson,Mobile,"[""Cathedral of Saint Peter the Apostle""]","[[32.30113, -90.18427]]",
-New Orleans,New Orleans,"[""Cathedral-Basilica of Saint Louis IX King of France""]","[[29.95799, -90.06376]]",
+Mobile,Mobile,"[""Cathedral Basilica of the Immaculate Conception""]","[[30.69013, -88.04585]]",
 Alexandria,New Orleans,"[""Saint Francis Xavier Cathedral""]","[[31.31237, -92.4478]]",
 Baton Rouge,New Orleans,"[""Saint Joseph Cathedral""]","[[30.45192, -91.18694]]",
 Houma-Thibodaux,New Orleans,"[""Cathedral of Saint Francis de Sales (Houma)"", ""Saint Joseph Co-Cathedral (Thibodaux)""]","[[29.59466, -90.72277], [29.79349, -90.81956]]",Obtained via GeoHack
 Lafayette in Louisiana,New Orleans,"[""Cathedral of Saint John the Evangelist""]","[[30.22277777777778, -92.02361111111111]]",
 Lake Charles,New Orleans,"[""Cathedral of the Immaculate Conception""]","[[30.226666666666667, -93.21666666666667]]",
+New Orleans,New Orleans,"[""Cathedral-Basilica of Saint Louis IX King of France""]","[[29.95799, -90.06376]]",
 Shreveport,New Orleans,"[""Cathedral of St. John Berchmans""]","[[32.49777777777778, -93.75027777777778]]",
-New York,New York,"[""Saint Patrick's Cathedral""]","[[40.758611, -73.976389]]",Obtained via GeoHack
 Albany,New York,"[""Cathedral of the Immaculate Conception""]","[[42.6475, -73.759722]]",Obtained via GeoHack
 Brooklyn,New York,"[""Cathedral Basilica of Saint James"", ""Co-Cathedral of Saint Joseph""]","[[40.697056, -73.986667], [40.680444, -73.966389]]",Obtained via GeoHack
 Buffalo,New York,"[""Saint Joseph Cathedral""]","[[42.8828, -78.8782]]",Obtained via GeoHack
+New York,New York,"[""Saint Patrick's Cathedral""]","[[40.758611, -73.976389]]",Obtained via GeoHack
 Ogdensburg,New York,"[""Saint Mary's Cathedral""]","[[44.6988, -75.4857]]",Obtained via GeoHack
 Rochester,New York,"[""Sacred Heart Cathedral""]","[[43.1931, -77.6329]]",Obtained via GeoHack
 Rockville Centre,New York,"[""St. Agnes Cathedral""]","[[40.659806, -73.646289]]",Obtained via GeoHack
 Syracuse,New York,"[""Cathedral of the Immaculate Conception""]","[[43.046819, -76.149833]]",Obtained via GeoHack
-Newark,Newark,"[""Cathedral Basilica of the Sacred Heart""]","[[40.75499, -74.17837]]",Obtained via OpenStreetMap
 Camden,Newark,"[""Cathedral of the Immaculate Conception"", ""Saint Joseph Pro-Cathedral""]","[[39.944722, -75.118889], [39.94713, -75.08378]]",Obtained via GeoHack
 Metuchen,Newark,"[""Saint Francis of Assisi Cathedral""]","[[40.5457, -74.3634]]",Obtained via GeoHack
+Newark,Newark,"[""Cathedral Basilica of the Sacred Heart""]","[[40.75499, -74.17837]]",Obtained via OpenStreetMap
 Paterson,Newark,"[""Cathedral of Saint John the Baptist""]","[[40.912778, -74.1725]]",Obtained via GeoHack
 Trenton,Newark,"[""Cathedral of Saint Mary of the Assumption (Trenton)"", ""Co-Cathedral of St. Robert Bellarmine (Freehold)""]","[[40.2227, -74.766], [40.215139, -74.292833]]",Obtained via GeoHack
-Oklahoma City,Oklahoma City,"[""Cathedral of Our Lady of Perpetual Help""]","[[35.5027, -97.5308]]",Obtained via GeoHack
 Little Rock,Oklahoma City,"[""Cathedral of Saint Andrew""]","[[34.7425, -92.271944]]",Obtained via GeoHack
+Oklahoma City,Oklahoma City,"[""Cathedral of Our Lady of Perpetual Help""]","[[35.5027, -97.5308]]",Obtained via GeoHack
 Tulsa,Oklahoma City,"[""Holy Family Cathedral""]","[[36.147778, -95.99]]",Obtained via GeoHack
-Omaha,Omaha,"[""St. Cecilia Cathedral""]","[[41.266433, -95.971742]]",Obtained via GeoHack
 Grand Island,Omaha,"[""Cathedral of the Nativity of the Blessed Virgin Mary""]","[[40.921111, -98.342222]]",Obtained via GeoHack
 Lincoln,Omaha,"[""Cathedral of the Risen Christ""]","[[40.7803, -96.6704]]",Obtained via GeoHack
-Philadelphia,Philadelphia,"[""Cathedral Basilica of Saints Peter and Paul""]","[[39.957286, -75.168939]]",Obtained via GeoHack
+Omaha,Omaha,"[""St. Cecilia Cathedral""]","[[41.266433, -95.971742]]",Obtained via GeoHack
 Allentown,Philadelphia,"[""Cathedral of Saint Catharine of Siena""]","[[40.598858, -75.496267]]",Obtained via GeoHack
 Altoona-Johnstown,Philadelphia,"[""Cathedral of the Blessed Sacrament (Altoona)"", ""St. John Gualbert Cathedral (Johnstown)""]","[[40.5158, -78.404], [40.32526, -78.9153]]",Obtained via GeoHack
 Erie,Philadelphia,"[""Saint Peter Cathedral""]","[[42.124167, -80.086944]]",Obtained via GeoHack
 Greensburg,Philadelphia,"[""Blessed Sacrament Cathedral""]","[[40.3065, -79.5462]]",Obtained via GeoHack
 Harrisburg,Philadelphia,"[""Cathedral of Saint Patrick""]","[[40.2637, -76.8864]]",Obtained via GeoHack
+Philadelphia,Philadelphia,"[""Cathedral Basilica of Saints Peter and Paul""]","[[39.957286, -75.168939]]",Obtained via GeoHack
 Pittsburgh,Philadelphia,"[""Saint Paul Cathedral""]","[[40.447397, -79.949839]]",Obtained via GeoHack
 Scranton,Philadelphia,"[""Saint Peter's Cathedral""]","[[41.410556, -75.663889]]",Obtained via GeoHack
-Portland in Oregon,Portland in Oregon,"[""St. Mary's Cathedral of the Immaculate Conception""]","[[45.5239, -122.689]]",Obtained via GeoHack
 Baker,Portland in Oregon,"[""Saint Francis de Sales Cathedral""]","[[44.7794, -117.8312]]",Obtained via GeoHack
 Boise,Portland in Oregon,"[""Cathedral of Saint John the Evangelist""]","[[43.6215, -116.198583]]",Obtained via GeoHack
 Great Falls-Billings,Portland in Oregon,"[""Saint Ann's Cathedral (Great Falls)"", ""Saint Patrick's Co-Cathedral (Billings)""]","[[47.5088, -111.2952], [45.782, -108.5107]]",Obtained via GeoHack
 Helena,Portland in Oregon,"[""Cathedral of Saint Helena""]","[[46.590147, -112.032542]]",Obtained via GeoHack
-St. Louis,St. Louis,"[""Cathedral Basilica of Saint Louis""]","[[38.6425, -90.254722]]",Obtained via GeoHack
-Jefferson City,St. Louis,"[""Cathedral of Saint Joseph""]","[[38.5917, -92.2103]]",Obtained via GeoHack
-Kansas City-St. Joseph,St. Louis,"[""Cathedral of the Immaculate Conception (Kansas City)"", ""Cathedral of Saint Joseph (St. Joseph)""]","[[39.100833, -94.589167], [39.770833, -94.848333]]",Obtained via GeoHack
-Springfield-Cape Girardeau,St. Louis,"[""Saint Agnes Cathedral (Springfield)"", ""Cathedral of Saint Mary of the Annunciation (Cape Girardeau)""]","[[37.2041, -93.2902], [37.30084, -89.52719]]",Obtained via GeoHack
-St. Paul and Minneapolis,St. Paul and Minneapolis,"[""Cathedral of Saint Paul (Saint Paul)"", ""Basilica of Saint Mary (Minneapolis)""]","[[44.946944, -93.108889], [44.973056, -93.286389]]",Obtained via GeoHack
-Bismark,St. Paul and Minneapolis,"[""Cathedral of the Holy Spirit""]","[[46.8105, -100.7965]]",Obtained via GeoHack
-Crookston,St. Paul and Minneapolis,"[""Cathedral of the Immaculate Conception""]","[[47.7752, -96.5898]]",Obtained via GeoHack
-Duluth,St. Paul and Minneapolis,"[""Cathedral of Our Lady of the Rosary""]","[[46.8165, -92.0682]]",Obtained via GeoHack
-Fargo,St. Paul and Minneapolis,"[""Cathedral of Saint Mary""]","[[46.8824, -96.7887]]",Obtained via GeoHack
-New Ulm,St. Paul and Minneapolis,"[""Cathedral of the Holy Trinity""]","[[44.3181, -94.4682]]",Obtained via GeoHack
-Rapid City,St. Paul and Minneapolis,"[""Cathedral of Our Lady of Perpetual Help""]","[[44.05995, -103.22762]]",Obtained via GeoHack
-St. Cloud,St. Paul and Minneapolis,"[""Cathedral of Saint Mary""]","[[45.5588, -94.1614]]",Obtained via GeoHack
-Sioux Falls,St. Paul and Minneapolis,"[""Saint Joseph Cathedral""]","[[43.5529, -96.7349]]",Obtained via GeoHack
-Winona-Rochester,St. Paul and Minneapolis,"[""Cathedral of the Sacred Heart (Winona)"", ""Co-Cathedral of St. John the Evangelist (Rochester)""] ","[[44.0484, -91.6395], [44.023, -92.4685]]",Obtained via GeoHack
-San Antonio,San Antonio,"[""Cathedral of San Fernando""]","[[29.424444, -98.494]]",Obtained via GeoHack
+Portland in Oregon,Portland in Oregon,"[""St. Mary's Cathedral of the Immaculate Conception""]","[[45.5239, -122.689]]",Obtained via GeoHack
 Amarillo,San Antonio,"[""St. Mary's Cathedral""]","[[35.203, -101.8494]]",Obtained via GeoHack
 Dallas,San Antonio,"[""Cathedral Santuario de Guadalupe""]","[[32.78865, -96.79788]]",Obtained via GeoHack
 El Paso,San Antonio,"[""Saint Patrick Cathedral""]","[[31.7658, -106.4929]]",Obtained via GeoHack
@@ -155,23 +143,35 @@ Fort Worth,San Antonio,"[""Cathedral of Saint Patrick""]","[[32.748889, -97.3294
 Laredo,San Antonio,"[""Cathedral of San Agustin""]","[[27.502494, -99.505192]]",Obtained via GeoHack
 Lubbock,San Antonio,"[""Christ the King Cathedral""]","[[33.5446, -101.9008]]",Obtained via GeoHack
 San Angelo,San Antonio,"[""Cathedral of the Sacred Heart""]","[[31.4633, -100.4353]]",Obtained via GeoHack
-San Francisco,San Francisco,"[""Cathedral of Saint Mary of the Assumption""]","[[37.7842, -122.4255]]",Obtained via GeoHack
+San Antonio,San Antonio,"[""Cathedral of San Fernando""]","[[29.424444, -98.494]]",Obtained via GeoHack
 Honolulu,San Francisco,"[""Cathedral Basilica of Our Lady of Peace"", ""Co-Cathedral of Saint Theresa of the Child Jesus""]","[[21.31075, -157.859417], [21.3243, -157.8611]]",Obtained via GeoHack
-Las Vegas,San Francisco,"[""Guardian Angel Cathedral""]","[[36.130556, -115.163611]]",Obtained via GeoHack
 Oakland,San Francisco,"[""Cathedral of Christ the Light""]","[[37.8105, -122.2631]]",Obtained via GeoHack
-Reno,San Francisco,"[""Saint Thomas Aquinas Cathedral""]","[[39.5258, -119.8174]]",Obtained via GeoHack
 Sacramento,San Francisco,"[""Cathedral of the Blessed Sacrament""]","[[38.579, -121.492]]",Obtained via GeoHack
-Salt Lake City,San Francisco,"[""Cathedral of the Madeleine""]","[[40.769722, -111.881667]]",Obtained via GeoHack
+San Francisco,San Francisco,"[""Cathedral of Saint Mary of the Assumption""]","[[37.7842, -122.4255]]",Obtained via GeoHack
 San Jose,San Francisco,"[""Cathedral Basilica of Saint Joseph""]","[[37.334036, -121.890816]]",Obtained via GeoHack
 Santa Rosa,San Francisco,"[""Cathedral of Saint Eugene""]","[[38.44715, -122.68783]]",Obtained via GeoHack
 Stockton,San Francisco,"[""Cathedral of the Annunciation""]","[[37.9631, -121.2998]]",Obtained via GeoHack
-Santa Fe,Santa Fe,"[""Cathedral Basilica of St. Francis of Assisi""]","[[35.6865, -105.9363]]",Obtained via GeoHack
 Gallup,Santa Fe,"[""Sacred Heart Cathedral""]","[[35.5253, -108.7359]]",Obtained via GeoHack
 Las Cruces,Santa Fe,"[""Cathedral of the Immaculate Heart of Mary""]","[[32.2994, -106.7662]]",Obtained via GeoHack
 Phoenix,Santa Fe,"[""Cathedral of Saints Simon and Jude""]","[[33.5298, -112.1162]]",Obtained via GeoHack
+Santa Fe,Santa Fe,"[""Cathedral Basilica of St. Francis of Assisi""]","[[35.6865, -105.9363]]",Obtained via GeoHack
 Tucson,Santa Fe,"[""Cathedral of Saint Augustine""]","[[32.2194, -110.9714]]",Obtained via GeoHack
 Seattle,Seattle,"[""Saint James Cathedral""]","[[47.6077, -122.3258]]",Obtained via GeoHack
 Spokane,Seattle,"[""Cathedral of Our Lady of Lourdes""]","[[47.658, -117.4285]]",Obtained via GeoHack
 Yakima,Seattle,"[""Saint Paul Cathedral""]","[[46.59606, -120.52544]]",Obtained via GeoHack
-Washington,Washington,"[""Cathedral of Saint Matthew the Apostle""]","[[38.906111, -77.04]]",Obtained via GeoHack
+Jefferson City,St. Louis,"[""Cathedral of Saint Joseph""]","[[38.5917, -92.2103]]",Obtained via GeoHack
+Kansas City-St. Joseph,St. Louis,"[""Cathedral of the Immaculate Conception (Kansas City)"", ""Cathedral of Saint Joseph (St. Joseph)""]","[[39.100833, -94.589167], [39.770833, -94.848333]]",Obtained via GeoHack
+Springfield-Cape Girardeau,St. Louis,"[""Saint Agnes Cathedral (Springfield)"", ""Cathedral of Saint Mary of the Annunciation (Cape Girardeau)""]","[[37.2041, -93.2902], [37.30084, -89.52719]]",Obtained via GeoHack
+St. Louis,St. Louis,"[""Cathedral Basilica of Saint Louis""]","[[38.6425, -90.254722]]",Obtained via GeoHack
+Bismark,St. Paul and Minneapolis,"[""Cathedral of the Holy Spirit""]","[[46.8105, -100.7965]]",Obtained via GeoHack
+Crookston,St. Paul and Minneapolis,"[""Cathedral of the Immaculate Conception""]","[[47.7752, -96.5898]]",Obtained via GeoHack
+Duluth,St. Paul and Minneapolis,"[""Cathedral of Our Lady of the Rosary""]","[[46.8165, -92.0682]]",Obtained via GeoHack
+Fargo,St. Paul and Minneapolis,"[""Cathedral of Saint Mary""]","[[46.8824, -96.7887]]",Obtained via GeoHack
+New Ulm,St. Paul and Minneapolis,"[""Cathedral of the Holy Trinity""]","[[44.3181, -94.4682]]",Obtained via GeoHack
+Rapid City,St. Paul and Minneapolis,"[""Cathedral of Our Lady of Perpetual Help""]","[[44.05995, -103.22762]]",Obtained via GeoHack
+Sioux Falls,St. Paul and Minneapolis,"[""Saint Joseph Cathedral""]","[[43.5529, -96.7349]]",Obtained via GeoHack
+St. Cloud,St. Paul and Minneapolis,"[""Cathedral of Saint Mary""]","[[45.5588, -94.1614]]",Obtained via GeoHack
+St. Paul and Minneapolis,St. Paul and Minneapolis,"[""Cathedral of Saint Paul (Saint Paul)"", ""Basilica of Saint Mary (Minneapolis)""]","[[44.946944, -93.108889], [44.973056, -93.286389]]",Obtained via GeoHack
+Winona-Rochester,St. Paul and Minneapolis,"[""Cathedral of the Sacred Heart (Winona)"", ""Co-Cathedral of St. John the Evangelist (Rochester)""] ","[[44.0484, -91.6395], [44.023, -92.4685]]",Obtained via GeoHack
 St. Thomas,Washington,"[""Saints Peter and Paul Cathedral""]","[[18.341011, -64.936792]]",Obtained via GeoHack
+Washington,Washington,"[""Cathedral of Saint Matthew the Apostle""]","[[38.906111, -77.04]]",Obtained via GeoHack
